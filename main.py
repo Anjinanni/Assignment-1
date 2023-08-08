@@ -1,4 +1,4 @@
-print("Hello World!")
+print("Hello CSE-310!")
 
 for i in range(1,10):
     print(i)
