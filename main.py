@@ -25,4 +25,4 @@ x=int(input("Enter a number: "))
 print(sum(x))
 
 
-print("Printed by Nusrat")
+print(" New print by Nusrat")
