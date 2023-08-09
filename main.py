@@ -23,3 +23,6 @@ def sum(x):
 
 x=int(input("Enter a number: "))
 print(sum(x))
+
+
+print("Printed by Nusrat")
